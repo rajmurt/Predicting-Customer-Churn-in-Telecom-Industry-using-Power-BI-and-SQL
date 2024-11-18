@@ -18,4 +18,4 @@ This repository contains the analysis of customer churn in the telecom industry,
 - Data analysis tools
 
 ## View the final deliverable:
-- [Download the final PowerPoint presentation]()
+- [Download the final PowerPoint presentation](https://github.com/rajmurt/Predicting-Customer-Churn-in-Telecom-Industry-using-Power-BI-and-SQL/blob/159a6dbdd74745603df5090179db1124ca800b31/Predicting-Customer-Churn-in-Telecom-Industry-using-Power-BI-and-SQL.pptx)
